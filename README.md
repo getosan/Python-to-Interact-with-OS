@@ -1,2 +1,2 @@
 # Python-to-Interact-with-OS
-This course is from Coursera Learning Platform
+Learning how to use python with operating system
